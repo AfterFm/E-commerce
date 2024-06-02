@@ -4,8 +4,6 @@ import styled from 'styled-components';
 import StripeCheckout from 'react-stripe-checkout';
 import axios from 'axios';
 
-const KEY = "pk_test_51PH3dSSDJnivTloQg8vMyAdmUjxAhu2zfO68qjPO837PjrusUQrvHzgjjmdg9cf4nGqQtr9lKrNOpQ8eEUAsjdxF00LoxDufhD";
-
 const CenteredContainer = styled.div`
   display: flex;
   justify-content: center;
